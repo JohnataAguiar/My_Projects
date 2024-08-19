@@ -36,6 +36,7 @@ public class ContaTerminal {
         // Saldo
         System.out.print("Saldo --> ");
         bankBalance = scanner.nextDouble();
+
         
     }
 }
